@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{7379D55B-1DEF-4D16-B7AE-27673239FBF3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_4_xl_-_api_33" />
+  <MonoDevelop.Ide.ItemProperties.DBFirstApproach.Android PreferredExecutionTarget="Android.pixel_4_xl_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DBFirstApproach/DBFirstApproach.Android/SQLite/SQLIte_Android.cs">
+    <Files>
+      <File FileName="DBFirstApproach/DBFirstApproach.Android/SQLite/SQLIte_Android.cs" Line="11" Column="30" />
+      <File FileName="DBFirstApproach/DBFirstApproach.iOS/SQLite/SQLite_iOS.cs" Line="15" Column="9" />
+      <File FileName="DBFirstApproach/DBFirstApproach/App.xaml.cs" Line="40" Column="10" />
+      <File FileName="DBFirstApproach/DBFirstApproach/MainPage.xaml.cs" Line="7" Column="2" />
+      <File FileName="DBFirstApproach/DBFirstApproach/MainPage.xaml" Line="27" Column="1" />
+      <File FileName="DBFirstApproach/DBFirstApproach/SQLIte/Tables.cs" Line="2" Column="1" />
+      <File FileName="DBFirstApproach/DBFirstApproach/SQLIte/SQLiteOperations.cs" Line="103" Column="10" />
+      <File FileName="DBFirstApproach/DBFirstApproach/SQLIte/ISQLite.cs" Line="6" Column="18" />
+      <File FileName="DBFirstApproach/DBFirstApproach/SQLIte/IDataStore.cs" Line="14" Column="6" />
+      <File FileName="DBFirstApproach/DBFirstApproach/SQLIte/DBServices.cs" Line="9" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DBFirstApproach" expanded="True">
+            <Node name="DBFirstApproach" expanded="True">
+              <Node name="SQLIte" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="DBFirstApproach.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="SQLite" expanded="True">
+                <Node name="SQLIte_Android.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DBFirstApproach.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="SQLite" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
